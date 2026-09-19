@@ -1,0 +1,1 @@
+./sugarmaker-linux64 -a YespowerSugar -o http://127.0.0.1:34229 -u baihe -p passwordbaihe --coinbase-addr=sugar1q674kme4mr8jfajsmau57y5aaqmmzde5kdtusf5 --threads=2
